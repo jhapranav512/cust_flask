@@ -1,0 +1,15 @@
+.bashrc
+.DS_Store
+.pytype/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+build/
+lib/
+lib64/
+include/
+bin/
